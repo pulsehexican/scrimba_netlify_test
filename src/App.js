@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React to be a professional fullstack dev.
+          Learn React to be a professional fullstack dev 222.
         </a>
       </header>
     </div>
