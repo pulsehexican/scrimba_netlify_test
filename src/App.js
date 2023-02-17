@@ -37,7 +37,7 @@ function App1() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >TOMASZ, Learn React to be a professional fullstack dev.
+        >TOMASZ 2, Learn React to be a professional fullstack dev.
         </a>
       </header>
     </div>
