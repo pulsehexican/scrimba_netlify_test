@@ -22,8 +22,6 @@ function App() {
   );
 }
 
-export default App;
-
 function App1() {
   return (
     <div className="App">
@@ -44,4 +42,4 @@ function App1() {
   );
 }
 
-export default App1;
+export default App;
