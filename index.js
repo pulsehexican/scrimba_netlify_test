@@ -1,3 +1,8 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+
+
 function renderElement(content,id){
     ReactDOM.render(content, document.getElementById(id));
 }
