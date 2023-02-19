@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+h1.header {
+  font-size: 32px;
+  color: #777;
+  text-align: center;
+}
+
+
+h2.header2 {
+  font-size: 22px;
+  color: #777;
+  text-align: left;
+}
